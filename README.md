@@ -5,6 +5,8 @@ Submission by Andy G
 
 This is the model for the traffic management challenge. I achieved RSME of 0.025 in the validation date (80:20 train vs. validation data, no shuffling).
 
+More information on my thought process on the feature engineering is found in 'demandprediction.ipynb'
+
 How to run the files on test data:
 1. Download the whole folder
 2. Put the test data in the same folder under the name 'demand.csv'. Make sure also that the file 'grab.h5' is in the folder because that is the trained model saved data.
